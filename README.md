@@ -28,7 +28,7 @@ Aqui neste repositório estarão meus estudos seguindo um RoadMap para backend
 
 
 ## 🖥 Personal goals
-| Focus in  | 2  |   3    | 4 | 5  |
+| Focus in  |   |       |  |   |
 | --------| ------| -----| ----| -----|
 | HTTP || Git/GitHub  | REST |  Authentication  | Linux |
 | Java  | MySQL | TDD   |  OOP  | JSON | 
