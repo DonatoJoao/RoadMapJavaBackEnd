@@ -30,7 +30,7 @@ Aqui neste repositório estarão meus estudos seguindo um RoadMap para backend
 ## 🖥 Personal goals
 | Focus in  |   |       |  |   |
 | --------| ------| -----| ----| -----|
-| HTTP || Git/GitHub  | REST |  Authentication  | Linux |
+| HTTP || Github  | REST |  Authentication  | Linux |
 | Java  | MySQL | TDD   |  OOP  | JSON | 
 | GoF | Microservices| Serverless | SOA | API Security
 | Kafka | Web sockets | MongoDB | Docker | ... |
