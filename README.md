@@ -31,7 +31,7 @@ Aqui neste repositório estarão meus estudos seguindo um RoadMap para backend
 | Focus in  |   |       |  |   |
 | --------| ------| -----| ----| -----|
 | HTTP | Github  | REST |  Authentication  | Linux |
-| Java  | MySQL | TDD   |  OOP  | JSON | 
+| [Java](https://github.com/DonatoJoao/EstudandoSozinho)  | MySQL | TDD   |  OOP  | JSON | 
 | GoF | Microservices| Serverless | SOA | API Security
 | Kafka | Web sockets | MongoDB | Docker | ... |
 
