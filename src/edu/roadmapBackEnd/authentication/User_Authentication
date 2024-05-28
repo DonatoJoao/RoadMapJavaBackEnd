@@ -1,0 +1,77 @@
+https://swoopnow.com/user-authentication/
+
+User Authentication: Understanding the Basics & Top Tips
+
+    1. What user authentication is?
+User authentication is a security process that covers all of the human-to-computer interactions that
+require the user to register and log in. Said more simply, authentication asks each user, “who are you?”
+and verifies their response.
+
+2. How user authentication works?
+In order to gain access, users must prove to the website that they are who they say they are.
+The ID and key are enough to confirm the user’s identity, which will allow the system to authorize the user.
+
+It’s important to note that authorization, on the other hand, is what dictates what users are able to see
+and do when they log in. While authorization and authentication are often used interchangeably,
+the two different terms work together to create a secure login process.
+
+To put it simply, user authentication has three tasks:
+
+Manage the connection between the human (user) and the website’s server (computer).
+Verify users’ identities.
+Approve (or decline) the authentication so the system can move to authorizing the user.
+
+4. Top user authentication methods
+In order for a user to confirm their identity, the individual must provide a piece of information
+that only the user and the server knows. This information is called an authentication factor,
+and there are three types:
+
+Knowledge factors. Factors the user must know in order to log in are considered a knowledge factor.
+This can be anything from a username, password, or pin number. The challenge with these factors is that
+they can be weak in terms of security because they can be shared or guessed.
+Possession factors. Anything that the user must have in order to log in is known as a possession factor.
+One-time password tokens such as a Magic Link™, key fobs, ID cards, and physical tokens are all
+considered possession factors.
+Inheritance factors. Using a person’s biological characteristics is known as an inheritance factor.
+Any biometric authentication process, such as fingerprint scanning and facial recognition, would
+fall into this category.
+
+Password-Based User Authentication Methods
+Most users are familiar with passwords. In fact, passwords have been the tried-and-true method for user
+authentication since the beginning of the internet. You probably have quite a few passwords yourself!
+
+A password-based user authentication process generally looks like this:
+
+When you land on the page, you’ll be asked to enter your username and password.
+Your credentials are sent to the website’s server and compared with the information they have on file.
+When a match is found, you’ll be able to enter your account.
+Passwords are often used to secure personal accounts like social media profiles, online banking and
+eCommerce sites, and other online resources. However, passwords are not as secure an option as many users
+think they are. And a lot of damage can be done if a hacker is able to gain access to one of these accounts!
+
+Passwordless User Authentication Methods
+To put it simply, a passwordless login system is an authentication method that doesn’t require a password.
+In the past couple of years, these types of authentication methods have become more popular—and
+you’ve probably experienced a few.
+
+There are several different types of passwordless login, but in this article, will cover
+two of the most common types:
+
+Biometrics
+Fingerprint and iris scanning, facial recognition, and other types of verification through biological
+characteristics all fall under the category of biometrics and are considered an “inheritance” authentication factor.
+
+Email Authentication
+Email authentication is one of the most universally accessible types of passwordless user authentication,
+largely because anyone with an email account can use this method. Thanks to this method, users can create an
+account, log in, and access their sensitive data with just a click of a button!
+
+Implement SSO Authentication.
+If you’re not familiar with the term SSO, or single sign-on, authentication, it’s a process that lets
+you remain logged in to an account even when you move to a different domain or server. This system is ideal
+for organizations that have various products and services located on different websites.
+
+Enable a Multi-Factor Authentication Strategy.
+A multi-factor authentication strategy is one that verifies users’ identities using multiple
+methods of authentication. For example, a user could input their username and password, which then
+directs them to a one-time emailed link or security code.
